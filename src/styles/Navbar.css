@@ -1,0 +1,48 @@
+.testClass {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+body {
+  font-size: 20px;
+}
+main {
+
+  background-color: rgb(162, 232, 255);
+}
+
+.top {
+  background: rgb(255, 213, 150);
+  opacity: .8;
+
+}
+input {
+  font-size: 22px;
+}
+#mine {
+  font-size: 150%;
+  margin: 0;
+  
+}
+#mine2 {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  margin: 0;
+}
+.mine3 {
+  padding: 2px 10px;
+}
+.topBar {
+  display: flex;
+  justify-content: space-between;
+}
+.socialIcons {
+  color: black;
+  font-weight: 200;
+
+}
+.socialIcons2 {
+  font-size: 33px;
+  padding: 0px 18px;
+}
