@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/00-practice-app/static/css/main.a32fe3ba.css",
+    "main.js": "/00-practice-app/static/js/main.87df6f66.js",
+    "static/media/Travel.png": "/00-practice-app/static/media/Travel.a054e5265aa22fa1d3d2.png",
+    "static/media/Command.png": "/00-practice-app/static/media/Command.f916a7f94f57f42a2eec.png",
+    "static/media/Momentum.png": "/00-practice-app/static/media/Momentum.bd59ded49c82cb921549.png",
+    "static/media/Quiz.png": "/00-practice-app/static/media/Quiz.7ce6ebd0a306071b510e.png",
+    "static/media/Password.png": "/00-practice-app/static/media/Password.1b1f42a9e9f12d99db3e.png",
+    "static/media/Note.png": "/00-practice-app/static/media/Note.fd8579a860a6d2d159eb.png",
+    "index.html": "/00-practice-app/index.html",
+    "main.a32fe3ba.css.map": "/00-practice-app/static/css/main.a32fe3ba.css.map",
+    "main.87df6f66.js.map": "/00-practice-app/static/js/main.87df6f66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a32fe3ba.css",
+    "static/js/main.87df6f66.js"
+  ]
+}
