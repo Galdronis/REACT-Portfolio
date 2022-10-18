@@ -4,7 +4,7 @@ import quiz from '../assets/Quiz.png'
 import command from '../assets/Command.png'
 import momentum from '../assets/Momentum.png'
 import password from '../assets/Password.png'
-import note from '../assets/Note.png'
+import hospital from '../assets/Hospital.png'
 import '../styles/Portfolio.css'
 
 function Portfolio() {
@@ -46,11 +46,11 @@ function Portfolio() {
                 <a href='https://galdronis.github.io/Password-generator/'>And here is the deployed application.</a>
             </div>
             <div>
-                <img style={{width: 1000, height: 500}} src={note}></img>
-                <p>This is a small application that allows you to write notes onto a page and save them for later! For this application, I was given broken starter code and I refactored it into a functioning note taking app!</p>
-                <a href='https://github.com/Galdronis/Taker-of-Notes'></a>
+                <img style={{width: 1000, height: 500}} src={hospital}></img>
+                <p>This is the final project for my school. Utilizing many different tools, my team created an app that can be used to rate individual hospitals and serves as an API for travelling nurse's opinions of various hospitals!</p>
+                <a href='https://infinite-meadow-47316.herokuapp.com'>Here is the deployed application!</a>
                 <br></br>
-                <a href='https://galdronis.github.io/Taker-of-Notes'></a>
+                <a href='https://github.com/Galdronis/Hospital-Rater'>And here is the code!</a>
             </div>
         </div>
     )
